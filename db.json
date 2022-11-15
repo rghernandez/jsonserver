@@ -1,5 +1,5 @@
 {
-  "Inbound-carriers": [
+  "inbound-carriers": [
     {
       "id": 1,
       "parts": "wheels",
