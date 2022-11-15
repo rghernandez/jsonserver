@@ -1,31 +1,22 @@
 {
-  "posts": [
+  "Inbound-carriers": [
     {
       "id": 1,
-      "title": "Post 1"
+      "parts": "wheels",
+      "registration": "1234567X"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "parts": "engines",
+      "registration": "1234567A"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "parts": "wheels",
+      "registration": "1234567B"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "test"
   }
 }
