@@ -18,5 +18,22 @@
   ],
   "profile": {
     "name": "test"
-  }
+  },
+  "parts":[
+    {
+      "uuid": "ABC-abc-1234",
+      "type":  "wheel",
+      "model": "Renault Model"
+    },
+    {
+      "uuid": "ABC-abc-5678",
+      "type":  "wheel",
+      "model": "Renault Model"
+    },
+    {
+      "uuid": "ABC-abc-9101",
+      "type":  "wheel",
+      "model": "Renault Model"
+    }
+  ]
 }
